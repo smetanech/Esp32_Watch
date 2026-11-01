@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20IDE%20%7C%20PlatformIO-teal)
 
-![Display preview](docs/preview.png)
+![Display preview](preview.png)
 
 > **⚠ This firmware is written specifically for the Waveshare ESP32-S3 e-Paper 1.54 board.**
 > The pin map, display driver selection and power scheme in this project are matched
