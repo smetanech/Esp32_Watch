@@ -1,0 +1,7 @@
+.pio/
+build/
+firmware/config.h
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
