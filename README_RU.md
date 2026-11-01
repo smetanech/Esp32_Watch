@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20IDE%20%7C%20PlatformIO-teal)
 
-![Внешний вид экрана](docs/preview.png)
+![Внешний вид экрана](preview.png)
 
 > **⚠ Прошивка написана специально под плату Waveshare ESP32-S3 e-Paper 1.54.**
 > Распиновка, выбор драйвера дисплея и схема питания в этом проекте подобраны
