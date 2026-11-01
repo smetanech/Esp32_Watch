@@ -1,6 +1,6 @@
 # ESP32-S3 Pocket Weather & Watch
 
-<p align="center"><img src="docs/preview.png" alt="Screen preview" width="640"></p>
+<p align="center"><img src="preview.png" alt="Screen preview" width="640"></p>
 
 A pocket-sized e-paper clock and meteostation. Wakes up once a minute, updates
 the screen and falls back into deep sleep — the e-paper keeps the image with
