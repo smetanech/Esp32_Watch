@@ -1,4 +1,4 @@
-# ESP32-S3 Pocket Weather
+# ESP32-S3 Pocket Weather & Watch
 
 <p align="center"><img src="docs/preview.png" alt="Screen preview" width="640"></p>
 
