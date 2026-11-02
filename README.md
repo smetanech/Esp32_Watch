@@ -2,7 +2,7 @@
 
 > **This firmware is written specifically for the [Waveshare ESP32-S3 e-Paper 1.54](https://www.waveshare.com/esp32-s3-epaper-1.54.htm) board.** The pinout, display driver, power rails and button logic are matched to this exact hardware — keep this in mind before using any other board.
 
-![preview](docs/preview.png)
+![preview](docs/main_preview.png)
 
 A pocket e-paper clock and weather station built on the ESP32-S3: large seven-segment time, day of the week, date, temperature and humidity from the SHTC3, and a battery indicator — all on a 1.54" 200×200 e-paper panel. The device sleeps almost all the time and wakes up once per update interval, so it runs for days on a small Li-Po cell.
 
