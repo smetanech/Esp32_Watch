@@ -74,7 +74,7 @@
 1. Установите Arduino IDE (1.8.19 или 2.x).
 2. Добавьте ядро ESP32: File → Preferences → Additional Board Manager URLs → `https://espressif.github.io/arduino-esp32/package_esp32_index.json`, затем Tools → Board Manager → установите **esp32 by Espressif Systems**.
 3. Установите библиотеки через Library Manager: **GxEPD2**, **Adafruit SHTC3 Library**, **Adafruit BusIO**. Библиотеку **PCF85063A-SOLDERED** при отсутствии в Library Manager установите из GitHub Soldered Electronics.
-4. Скопируйте папку скетча `ESP32_S3_PocketWeather` куда угодно — имя папки должно совпадать с именем `.ino`.
+4. Загрузите zip-архив `Esp_Watch-main` (Нажмите  `Code` → `Download ZIP` **ИЛИ** `Releases` → `ESP32-S3 Pocket Watch & Weather` → `Assets` → `Esp_Watch-main.zip`). Распакуйте и скопируйте папку скетча `Esp_Watch-main` в любое место.
 5. Скопируйте `config.example.h` в `config.h` и впишите свои Wi-Fi SSID/пароль и таймзону.
 6. Подключите плату кабелем USB-C; порт появится как COMx (Windows) или /dev/ttyACMx (Linux/macOS).
 7. Выберите настройки платы из таблицы выше (порт — ваш фактический).
